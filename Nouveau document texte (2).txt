@@ -1,0 +1,41 @@
+      <SwiperSlide>
+            <div className='h-fit w-full p-4 bg-slate-700 rounded-xl'>
+              <img src='https://i.scdn.co/image/ab67706f0000000319ab577207bd9e19375deb6b'  alt='' className='rounded-lg'/>
+              <h3 className='text-xl my-4'>Relax and unwind with chill, ambient music.</h3>
+              <div className='flex gap-3'>
+                <a href="https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Watch</a>
+
+              </div>
+
+            </div>
+
+          </SwiperSlide>
+
+
+          <SwiperSlide>
+            <div className='h-fit w-full p-4 bg-slate-700 rounded-xl'>
+              <img src='https://i.scdn.co/image/ab67706f000000038b279af6723ffc91d1fb453c'  alt='' className='rounded-lg'/>
+              <h3 className='text-xl my-4'>Acoustic versions of well-known songs.</h3>
+              <div className='flex gap-3'>
+                <a href="https://open.spotify.com/playlist/37i9dQZF1DXc3FQfFV3K6V" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Watch</a>
+
+              </div>
+
+            </div>
+
+          </SwiperSlide>
+        
+           
+
+          <SwiperSlide>
+            <div className='h-fit w-full p-4 bg-slate-700 rounded-xl'>
+              <img src='https://i.scdn.co/image/ab67706f00000003008092db062ae57983ed0141'  alt='' className='rounded-lg'/>
+              <h3 className='text-xl my-4'>Let these calm Jazz tracks lull you to sleep."</h3>
+              <div className='flex gap-3'>
+                <a href="https://open.spotify.com/playlist/37i9dQZF1DXa1rZf8gLhyz" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Watch</a>
+
+              </div>
+
+            </div>
+
+          </SwiperSlide>
